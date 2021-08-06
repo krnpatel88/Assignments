@@ -4,6 +4,7 @@
 #We have used ubuntu 20.4.
 #We consider that git is already installed on the machine where this script will run.
 #Before running this script make sure you give executable permission to this file and home folder should be /home/ubuntu because we have used absolute path.
+#Please save this file under /home/ubuntu, because we have given this path to cron job.
 
 #We are creating custome date format for log filename.
 today=`date '+%d%m%Y'`;
