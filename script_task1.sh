@@ -2,6 +2,7 @@
 
 #Notes:
 #We have used ubuntu 20.4.
+#We consider that git is already installed on the machine where this script will run.
 #Before running this script make sure you give executable permission to this file and home folder should be /home/ubuntu because we have used absolute path.
 
 #We are creating custome date format for log filename.
